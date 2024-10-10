@@ -23,7 +23,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # 환경 변수 사용
-API_KEY = os.getenv('API_KEY')
+# API_KEY = os.getenv('API_KEY')
+API_KEY = st.secrets['API_KEY']
 
 client = OpenAI(api_key=API_KEY)
 

@@ -8,4 +8,3 @@ sentence-transformers
 yake
 faiss-cpu
 python-dotenv
-distutils

@@ -9,3 +9,4 @@ yake==0.4.8
 faiss-cpu==1.7.2
 sqlite3==3.39.4
 python-dotenv==1.0.0
+distutils

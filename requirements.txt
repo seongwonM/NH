@@ -1,0 +1,11 @@
+pandas==1.5.3
+numpy==1.24.2
+scikit-learn==1.2.1
+streamlit==1.12.0
+yfinance==0.2.18
+openai==0.27.0
+sentence-transformers==2.2.2
+yake==0.4.8
+faiss-cpu==1.7.2
+sqlite3==3.39.4
+python-dotenv==1.0.0
